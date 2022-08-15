@@ -17,3 +17,7 @@ _This paragraph is going to be italics using underscores_
 <!-- Strong -->
 This will look bold style text **Strong**
 This wil look bold style text __Strong__
+
+<!-- Horizontal Rule -->
+Using triple hyphens will be able to create horizontal rules to separate content
+---
