@@ -32,3 +32,7 @@ This is an example of showing textwith an *asterisk* that will not be italized, 
 ---
 <!--Block Quote-->
 >This is going to be dispayed as a quote with a background and line on the left side
+
+<!--Creating link using Markdonw-->
+**NOTE** The text that go with the link should be in brackets and the links in parenthesis.
+[docker](https://www.docker.com/)
