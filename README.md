@@ -16,4 +16,4 @@ _This paragraph is going to be italics using underscores_
 
 <!-- Strong -->
 This will look bold style text **Strong**
-This wil look bold style text using underscore __Strong__
+This wil look bold style text __Strong__
