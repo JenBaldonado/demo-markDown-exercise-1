@@ -25,5 +25,6 @@ Using triple hyphens will be able to create horizontal rules to separate content
 Using triple hyphens will be able to create horizontal rules to separate content
 ___ 
 
+
 <!--Escape Character Using Backslash-->
 This is an example of showing textwith an *asterisk* that will not be italized, example \*asterisk*
