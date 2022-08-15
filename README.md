@@ -11,4 +11,4 @@ Mark Down Cheat Sheet
 
 <!-- Italics -->
 _This paragraph is going to be italics using underscores_
-*This paragraph is going to be italics using stars
+*This paragraph is going to be italics using stars*
